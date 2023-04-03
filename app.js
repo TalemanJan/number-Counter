@@ -18,3 +18,7 @@ function decreasee() {
 
 
 
+function resett(){
+
+
+}
