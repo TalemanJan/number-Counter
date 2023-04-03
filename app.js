@@ -19,6 +19,8 @@ function decreasee() {
 
 
 function resett(){
+  var counter = document.getElementById("counter");
+counter.innerHTML=0
 
 
 }
